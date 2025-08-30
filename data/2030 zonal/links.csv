@@ -1,0 +1,29 @@
+name,bus0,bus1,carrier,p_nom,marginal_cost,p_min_pu,p_max_pu
+"Z1, Z2",Z1,Z2,AC,4700,0,-1,1
+"Z2, Z3",Z2,Z3,AC,5400,0,-1,1
+"Z3, Z4",Z3,Z4,AC,7430,0,-1,1
+"Z4, Z5",Z4,Z5,AC,8000,0,-1,1
+"Z5, Z6",Z5,Z6,AC,10000,0,-1,1
+"Z6, Z7",Z6,Z7,AC,13350,0,-1,1
+"Z7, Z8",Z7,Z8,AC,5500,0,-1,1
+"Z7, Z9",Z7,Z9,AC,16550,0,-1,1
+"Z9, Z10",Z9,Z10,AC,15000,0,-1,1
+"Z10, Z11",Z10,Z11,AC,13500,0,-1,1
+"Z10, Z12",Z10,Z12,AC,6200,0,-1,1
+"Z5,Z7",Z5,Z7,DC,2138,0,-1,1
+Eastern greenlink 2,Z2,Z7,DC,2000,0,-1,1
+BritNed dis,Netherlands,Z10,DC,1000,,-1,1
+Ireland dis,Ireland,Z7,DC,500,,-1,1
+N. Ireland dis,N. Ireland,Z5,DC,500,,-1,1
+Belgium dis,Belgium,Z12,DC,1000,,-1,1
+France1 dis,France1,Z12,DC,2000,,-1,1
+France2 dis,France2,Z12,DC,1000,,-1,1
+Norway dis,Norway,Z6,DC,1400,,-1,1
+Denmark dis,Denmark,Z9,DC,1400,,-1,1
+France dis,France,Z12,DC,1000,,-1,1
+NeuConnect dis,Germany,Z10,DC,1400,,-1,1
+FAB Link dis,France3,Z12,DC,1250,,-1,1
+Greenlink,Ireland,Z10,DC,500,,-1,1
+GridLink,France1,Z12,DC,1400,,-1,1
+MaresConnect,Ireland,Z8,DC,750,,-1,1
+Tarchon,Germany,Z11,DC,1400,,-1,1
