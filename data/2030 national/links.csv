@@ -1,0 +1,16 @@
+name,bus0,bus1,carrier,p_nom,marginal_cost,p_min_pu,p_max_pu
+BritNed dis,Netherlands,Z,DC,1000,,-1,1
+Ireland dis,Ireland,Z,DC,500,,-1,1
+N. Ireland dis,N. Ireland,Z,DC,500,,-1,1
+Belgium dis,Belgium,Z,DC,1000,,-1,1
+France1 dis,France1,Z,DC,2000,,-1,1
+France2 dis,France2,Z,DC,1000,,-1,1
+Norway dis,Norway,Z,DC,1400,,-1,1
+Denmark dis,Denmark,Z,DC,1400,,-1,1
+France dis,France,Z,DC,1000,,-1,1
+NeuConnect dis,Germany,Z,DC,1400,,-1,1
+FAB Link dis,France3,Z,DC,1250,,-1,1
+MaresConnect,Ireland,Z,DC,750,,-1,1
+Tarchon,Germany,Z,DC,1400,,-1,1
+GridLink,France,Z,DC,1400,,-1,1
+Greenlink,Ireland,Z,DC,500,,-1,1
