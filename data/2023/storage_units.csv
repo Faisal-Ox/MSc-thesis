@@ -1,0 +1,83 @@
+name,p_nom,carrier,marginal_cost,max_hours,efficiency_store,efficiency_dispatch,state_of_charge_initial,bus
+Dinorwig,1728.0,Pumped Storage Hydroelectric,0,5.266,0.865,0.865,9099.648,Z8
+Ffestiniog,360.0,Pumped Storage Hydroelectric,0,3.889,0.85,0.85,1400.04,Z8
+Cruachan,440.0,Pumped Storage Hydroelectric,0,16.136,0.865,0.865,7099.839999999999,Z3
+Foyers,300.0,Pumped Storage Hydroelectric,0,21.0,0.865,0.865,6300.0,Z2
+Aikengall II Community Wind Farm Battery,80.0,Battery,0,1.3,0.95,0.95,104.0,Z6
+Anchor Lane Energy Centre,4.0,Battery,0,1.3,0.95,0.95,5.2,Z9
+Asfordby Business Park (1),23.4,Battery,0,1.3,0.95,0.95,30.42,Z10
+Berry Court Solar Farm - energy storage,1.0,Battery,0,1.3,0.95,0.95,1.3,Z12
+Blackburn Meadows ,10.0,Battery,0,1.3,0.95,0.95,13.0,Z7
+Bloxwich Battery,41.0,Battery,0,1.3,0.95,0.95,53.3,Z9
+Boscar Grange Farm,27.0,Battery,0,1.3,0.95,0.95,35.1,Z7
+Broxburn ,20.0,Battery,0,1.3,0.95,0.95,26.0,Z5
+Bumpers Lane Solar Farm ,13.3,Battery,0,1.3,0.95,0.95,17.290000000000003,Z10
+Burbo Bank Energy Storage,2.0,Battery,0,1.3,0.95,0.95,2.6,Z7
+Burwell - Battery Storage,50.0,Battery,0,1.3,0.95,0.95,65.0,Z10
+Calow Green Farm,20.0,Battery,0,1.3,0.95,0.95,26.0,Z9
+Cirencester Solar Farm,10.0,Battery,0,1.3,0.95,0.95,13.0,Z10
+Claredown Farm,20.0,Battery,0,1.3,0.95,0.95,26.0,Z10
+Clayhill,6.0,Battery,0,1.3,0.95,0.95,7.800000000000001,Z10
+Clayhill Farm -  Battery Energy Storage,21.0,Battery,0,1.3,0.95,0.95,27.3,Z10
+Cleator,10.0,Battery,0,1.3,0.95,0.95,13.0,Z6
+Cleveland Potash,6.0,Battery,0,1.3,0.95,0.95,7.800000000000001,Z6
+Clifton Marsh Waste Water Treatment Works,2.0,Battery,0,1.3,0.95,0.95,2.6,Z6
+Creyke Beck,49.9,Battery,0,1.3,0.95,0.95,64.87,Z7
+Dorking Battery Energy Storage System,6.0,Battery,0,1.3,0.95,0.95,7.800000000000001,Z10
+Dundee Technology Park,49.9,Battery,0,1.3,0.95,0.95,64.87,Z3
+EPSRC Willenhall,2.0,Battery,0,1.3,0.95,0.95,2.6,Z9
+Falcon Project,0.3,Battery,0,1.3,0.95,0.95,0.39,Z10
+Fideoak Mills,30.0,Battery,0,1.3,0.95,0.95,39.0,Z12
+Hawkers Hill Energy Park,20.0,Battery,0,1.3,0.95,0.95,26.0,Z12
+Higher Hill Farm Energy Storage,0.3,Battery,0,1.3,0.95,0.95,0.39,Z12
+Hill Farm - Energy Barn,10.0,Battery,0,1.3,0.95,0.95,13.0,Z9
+Huggin's Hall,40.0,Battery,0,1.3,0.95,0.95,52.0,Z12
+Hywind 2,1.0,Battery,0,1.3,0.95,0.95,1.3,Z2
+Isle of Eigg Electrification Project ,0.1,Battery,0,1.3,0.95,0.95,0.13,Z2
+Kings Barn Farm - Energy Barn,10.0,Battery,0,1.3,0.95,0.95,13.0,Z12
+Kirkhaw Lane,20.0,Battery,0,1.3,0.95,0.95,26.0,Z7
+Land at and adjacent to Leicester Forest Services,1.5,Battery,0,1.3,0.95,0.95,1.95,Z9
+Land at Carnegie Road,20.0,Battery,0,1.3,0.95,0.95,26.0,Z7
+Land to the west of Clay Hill Pit / Larport Farm,20.0,Battery,0,1.3,0.95,0.95,26.0,Z9
+Lascar Works ,20.0,Battery,0,1.3,0.95,0.95,26.0,Z7
+Lathom (Pilkington Technical Centre) Battery Storage,2.0,Battery,0,1.3,0.95,0.95,2.6,Z7
+Leverton Farm - Energy Barn,10.0,Battery,0,1.3,0.95,0.95,13.0,Z9
+Limberlost Solar Farm ,0.3,Battery,0,1.3,0.95,0.95,0.39,Z12
+Lister Drive,49.9,Battery,0,1.3,0.95,0.95,64.87,Z7
+Liverpool Energy Management Facility,49.9,Battery,0,1.3,0.95,0.95,64.87,Z7
+Lockleaze Energy Storage,15.0,Battery,0,1.3,0.95,0.95,19.5,Z10
+London Distribution Park,3.8,Battery,0,1.3,0.95,0.95,4.94,Z10
+Mannington Battery Storage Plant,49.9,Battery,0,1.3,0.95,0.95,64.87,Z10
+Melksham Substation East Storage,50.0,Battery,0,1.3,0.95,0.95,65.0,Z10
+Meteor Business Park,1.5,Battery,0,1.3,0.95,0.95,1.95,Z10
+Minety South - Battery Storage,49.99,Battery,0,1.3,0.95,0.95,64.98700000000001,Z10
+Nether Moor Field,49.9,Battery,0,1.3,0.95,0.95,64.87,Z7
+Nevendon,10.0,Battery,0,1.3,0.95,0.95,13.0,Z10
+Newlands Farm Battery Storage Facility Phase 2,40.0,Battery,0,1.3,0.95,0.95,52.0,Z12
+Noriker Power Staunch,20.0,Battery,0,1.3,0.95,0.95,26.0,Z9
+North Norfolk Business Centre Solar Park - Battery Energy Storage Scheme,6.0,Battery,0,1.3,0.95,0.95,7.800000000000001,Z11
+Northern Isles New Energy Solution (NINES) 1,1.0,Battery,0,1.3,0.95,0.95,1.3,Z1
+Orkney Storage Park Project ,2.0,Battery,0,1.3,0.95,0.95,2.6,Z1
+Oxcroft Solar Farm,1.0,Battery,0,1.3,0.95,0.95,1.3,Z9
+Pelham,49.0,Battery,0,1.3,0.95,0.95,63.7,Z10
+Pen y Cymoedd Energy Storage,22.0,Battery,0,1.3,0.95,0.95,28.6,Z10
+Philip Dennis Food Service,3.8,Battery,0,1.3,0.95,0.95,4.94,Z12
+Pillswood Phase 1 ,49.5,Battery,0,1.3,0.95,0.95,64.35000000000001,Z7
+Pillswood Phase 2,49.5,Battery,0,1.3,0.95,0.95,64.35000000000001,Z7
+Port of Tyne,35.0,Battery,0,1.3,0.95,0.95,45.5,Z6
+Ray Battery Storage Facility,20.0,Battery,0,1.3,0.95,0.95,26.0,Z6
+"Rise Carr, Darlington / CLNR EES3-1",2.5,Battery,0,1.3,0.95,0.95,3.25,Z6
+Roosecote,49.0,Battery,0,1.3,0.95,0.95,63.7,Z6
+Salcey Solar Farm,1.0,Battery,0,1.3,0.95,0.95,1.3,Z10
+Severn Road,32.0,Battery,0,1.3,0.95,0.95,41.6,Z10
+Slepe Farm,0.3,Battery,0,1.3,0.95,0.95,0.39,Z12
+South Farm Solar Park,10.0,Battery,0,1.3,0.95,0.95,13.0,Z12
+Stonehill Energy Storage,50.0,Battery,0,1.3,0.95,0.95,65.0,Z10
+The Everest System,0.1,Battery,0,1.3,0.95,0.95,0.13,Z11
+Thrybergh Hydroelectric Scheme,0.3,Battery,0,1.3,0.95,0.95,0.39,Z7
+Trent Basin Community Battery,0.5,Battery,0,1.3,0.95,0.95,0.65,Z9
+Tynemouth Energy Storage System (TESS),25.0,Battery,0,1.3,0.95,0.95,32.5,Z6
+West Burton,49.0,Battery,0,1.3,0.95,0.95,63.7,Z9
+Western International Market (WIM) Site,0.2,Battery,0,1.3,0.95,0.95,0.26,Z10
+Whitelee Wind Farm Battery Storage Extension,50.0,Battery,0,1.3,0.95,0.95,65.0,Z5
+Willersey solar farm ,1.0,Battery,0,1.3,0.95,0.95,1.3,Z9
